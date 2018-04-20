@@ -138,8 +138,18 @@ based on:       "Carbon" by Eric Hettervik
         <image name="md_image">
             <origin>1 0</origin>
             <pos>0.97 0.03</pos>
-            <maxSize>.5 .5</maxSize>
+            <maxSize>.48 .48</maxSize>
         </image>
+        <video name="md_video">
+            <origin>1 0</origin>
+            <pos>1.015 0.03</pos>
+            <maxSize>.5 .5</maxSize>
+            <delay>3.00</delay>
+            <zIndex>25</zIndex>
+            <!--<default>./_inc/videos/static.mp4</default>-->
+            <showSnapshotNoVideo>false</showSnapshotNoVideo>
+            <showSnapshotDelay>false</showSnapshotDelay>
+        </video>
         <textlist name="gamelist">
             <selectorColor>FFFFFF</selectorColor>
             <selectedColor>000000</selectedColor>
