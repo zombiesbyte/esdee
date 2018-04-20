@@ -17,7 +17,7 @@
         </view>
     </feature>
 
-    <view name="detailed">
+    <view name="basic, video, detailed">
         <image name="e_wall" extra="true">
             <path>./../_inc/assets/atari5200-wall.jpg</path>
         </image>

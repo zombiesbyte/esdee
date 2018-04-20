@@ -92,7 +92,7 @@ based on:       "Carbon" by Eric Hettervik
         </view>
     </feature>
 
-    <view name="detailed video basic">
+    <view name="basic, video, detailed">
         <helpsystem name="help">
             <pos>0.03 0.97</pos>
             <textColor>444D56</textColor>
