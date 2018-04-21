@@ -6,7 +6,7 @@
     <feature supported="carousel">
         <view name="system">
             <image name="background" extra="true">
-                <path>./../_inc/assets/gameandwatch-hero.png</path>
+                <path>./../_inc/assets/gameandwatch-hero.jpg</path>
             </image>
             <image name="logo">
                 <path>./../_inc/assets/gameandwatch-sd-logo.png</path>

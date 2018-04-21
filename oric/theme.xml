@@ -6,7 +6,7 @@
     <feature supported="carousel">
         <view name="system">
             <image name="background" extra="true">
-                <path>./../_inc/assets/oric-hero.png</path>
+                <path>./../_inc/assets/oric-hero.jpg</path>
             </image>
             <image name="logo">
                 <path>./../_inc/assets/oric-sd-logo.png</path>

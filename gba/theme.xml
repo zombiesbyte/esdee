@@ -6,7 +6,7 @@
     <feature supported="carousel">
         <view name="system">
             <image name="background" extra="true">
-                <path>./../_inc/assets/gba-hero.png</path>
+                <path>./../_inc/assets/gba-hero.jpg</path>
             </image>
             <image name="logo">
                 <path>./../_inc/assets/gba-sd-logo.png</path>

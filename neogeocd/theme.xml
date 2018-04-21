@@ -6,7 +6,7 @@
     <feature supported="carousel">
         <view name="system">
             <image name="background" extra="true">
-                <path>./../_inc/assets/neogeocd-hero.png</path>
+                <path>./../_inc/assets/neogeocd-hero.jpg</path>
             </image>
             <image name="logo">
                 <path>./../_inc/assets/neogeocd-sd-logo.png</path>

@@ -6,7 +6,7 @@
     <feature supported="carousel">
         <view name="system">
             <image name="background" extra="true">
-                <path>./../_inc/assets/sega32x-hero.png</path>
+                <path>./../_inc/assets/sega32x-hero.jpg</path>
             </image>
             <image name="logo">
                 <path>./../_inc/assets/sega32x-sd-logo.png</path>
